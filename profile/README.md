@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/logo.png" alt="LeetMath" width="520">
+  <img src="logo.png" alt="LeetMath" width="520">
 </p>
 
 # LeetMath
